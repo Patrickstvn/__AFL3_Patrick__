@@ -13,7 +13,7 @@ struct ContentView: View {
     }
 }
 
-//ahalo
+//halo
 #Preview {
     ContentView()
         .environment(ModelData())
