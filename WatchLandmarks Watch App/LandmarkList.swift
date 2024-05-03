@@ -1,9 +1,10 @@
 //
 //  LandmarkList.swift
-//  Patrick Steven_AFL3
+//  WatchLandmarks Watch App
 //
-//  Created by student on 25/04/24.
+//  Created by Patrick Steven Kent Sugiarto on 03/05/24.
 //
+
 import SwiftUI
 
 
